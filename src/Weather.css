@@ -1,4 +1,5 @@
 .Weather {
+  background: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);
   border: 1px solid #d9dcdf;
   font-family: arial, sans-serif;
   color: rgb(135, 135, 135);

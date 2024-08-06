@@ -17,7 +17,9 @@ function App() {
             rel="noreferrer"
           >
             open-sourced on Github
-          </a>
+          </a>{" "}
+          and hosted on{" "}
+          <a href="https://merry-puffpuff-e6c790.netlify.app">Netlify</a>
         </footer>
       </div>
     </div>
